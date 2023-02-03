@@ -2,7 +2,7 @@ import pandas as pd
 import streamlit as st
 import numpy as np
 import matplotlib.pyplot as plt
-pip install statsmodels
+#pip install statsmodels
 
 import statsmodels.api as sm
 from statsmodels.tsa.seasonal import seasonal_decompose
